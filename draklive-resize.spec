@@ -1,5 +1,5 @@
 %define name draklive-resize
-%define version 0.7
+%define version 0.8
 %define release %mkrel 1
 %define iconname MandrivaOne-resize-icon.png
 
