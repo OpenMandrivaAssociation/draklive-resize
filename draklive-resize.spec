@@ -11,6 +11,7 @@ Source0:	%{name}-%{version}.tar.bz2
 License:	GPL
 Group:		System/Configuration/Other
 Url:		https://svn.mandriva.com/svn/soft/draklive-resize
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:      noarch
 
 %description
