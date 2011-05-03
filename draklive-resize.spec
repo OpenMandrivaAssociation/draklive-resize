@@ -1,6 +1,6 @@
 %define name draklive-resize
 %define version 0.18.2
-%define release %mkrel 2
+%define release %mkrel 3
 %define iconname MandrivaOne-resize-icon.png
 
 Summary:	Live system resizing tool
