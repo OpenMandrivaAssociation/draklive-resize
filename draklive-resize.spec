@@ -3,7 +3,7 @@
 Summary:	Live system resizing tool
 Name:		draklive-resize
 Version:	0.18.2
-Release:	8
+Release:	9
 License:	GPLv2
 Group:		System/Configuration/Other
 Url:		https://svn.mandriva.com/svn/soft/draklive-resize
