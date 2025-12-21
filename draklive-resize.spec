@@ -10,6 +10,7 @@ Url:		https://svn.mandriva.com/svn/soft/draklive-resize
 Source0:	%{name}-%{version}.tar.bz2
 BuildArch:      noarch
 
+BuildRequires:	make
 %description
 This tool allows to resize a the system space for live systems.
 
